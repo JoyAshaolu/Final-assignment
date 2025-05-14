@@ -24,3 +24,8 @@ https://pmc.ncbi.nlm.nih.gov/articles/PMC10178192/#:~:text=These%20robots%20are%
 https://www.technologyreview.com/2023/01/09/1065135/japan-automating-eldercare-robots/#:~:text=Care%20robots%20come%20in%20various,bath%20or%20use%20the%20toilet.
 https://pmc.ncbi.nlm.nih.gov/articles/PMC10178192/#:~:text=These%20robots%20are%20outfitted%20with,virtual%20tours%20and%20social%20gatherings.
 https://www.theguardian.com/society/2023/may/21/care-bots-care-tech-uk-robots-carers-emily-kenway
+<br/>**Features**
+<br/> My robot will require a claw to pick and fold the blanket and a set of wheels for mobility and a noise sensor to stop folding and back away the movent the noise level passes a certain mark and a weight sensor to know when to start swaddling the baby.
+<br/> when my robot senses a weight that is the same of higher than the set weight, my robot will begin swadling the baby based on the measurements already given to the robot, however once my robot hears the noice go past a certain point it will stop and back away instantly.
+<br/>
+<br/>**Sketch**
