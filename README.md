@@ -29,3 +29,5 @@ https://www.theguardian.com/society/2023/may/21/care-bots-care-tech-uk-robots-ca
 <br/> when my robot senses a weight that is the same of higher than the set weight, my robot will begin swadling the baby based on the measurements already given to the robot, however once my robot hears the noice go past a certain point it will stop and back away instantly.
 <br/>
 <br/>**Sketch**
+<br/>![WIN_20250523_08_38_55_Pro](https://github.com/user-attachments/assets/6a219ab6-05fc-4b45-ac66-222daed9303a)
+
